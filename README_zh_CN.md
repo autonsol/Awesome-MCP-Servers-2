@@ -423,6 +423,7 @@ Shell、操作系统与任务自动化相关。
 
 - Agentset AI — https://github.com/agentset-ai/mcp-server
 - OpenAI — https://github.com/pierrebrunelle/mcp-server-openai
+- NeuroLink — https://github.com/juspay/neurolink
 - OpenAI 兼容 Chat — https://github.com/pyroprompts/any-chat-completions-mcp
 - Perplexity — https://github.com/tanigami/mcp-server-perplexity
 - LlamaCloud — https://github.com/run-llama/mcp-server-llamacloud
